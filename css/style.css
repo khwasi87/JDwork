@@ -66,7 +66,7 @@ main{
 }
 
 .main-image img{
-    max-width: 536px;
+    max-width: 768px;
     width: 100%;
     height: auto;
 }
